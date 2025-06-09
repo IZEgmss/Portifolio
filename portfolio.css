@@ -261,21 +261,21 @@ body {
 }
 
 .project-card[data-project="cafe"] .project-image {
-    background-image: url('/home-cafeA.png');
+    background-image: url('home-cafeA.png');
     background-size:cover;
     background-position: center;
     /*background: linear-gradient(135deg, #8B7355 0%, #6B5B47 100%);*/
 }
 
 .project-card[data-project="burger"] .project-image {
-    background-image: url('/index-burgerhub.png');
+    background-image: url('index-burgerhub.png');
     background-size:cover;
     background-position: center;
     /*background: linear-gradient(135deg, #FF6B35 0%, #F7931E 100%);*/
 }
 
 .project-card[data-project="gaming"] .project-image {
-    background-image: url('/login-arcade.png');
+    background-image: url('login-arcade.png');
     background-size:cover;
     background-position: center;
     /*background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);*/
